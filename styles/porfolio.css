@@ -1,0 +1,30 @@
+/* banner styles */
+.banner-greeting{
+     color: #0E0E0E;
+    font-size: 24px;
+    font-weight: bold;
+}
+.banner-title{
+    font-size: 56px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+.banner-profile-pic{
+    width: 474px;
+}
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 160px 20px 160px;
+}
+.banner-content{
+    max-width: 622px;
+}
+/* header */
+.header{
+    background-color: #C6E4D6;
+    border-radius: 10px;
+    margin: 160px;
+    
+   
+}
